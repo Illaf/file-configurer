@@ -1,0 +1,18 @@
+{
+  "name": "file-configurer",
+  "version": "1.0.0",
+  "description": "A cli app to generate a configuration file.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "type": "module",
+  
+  "bin": {
+    "config-it": "index.js"
+  }
+
+}
